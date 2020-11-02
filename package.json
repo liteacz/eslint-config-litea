@@ -1,0 +1,16 @@
+{
+  "name": "@litea/eslint-config-litea",
+  "version": "0.0.0",
+  "description": "Unified set of ESLint rules used by Litea Solution s.r.o.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "vue",
+    "typescript"
+  ],
+  "author": "Dan Charousek <Dan.Charousek@litea.cz>",
+  "license": "MIT"
+}
