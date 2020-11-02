@@ -1,5 +1,5 @@
 {
-  "name": "@litea/eslint-config-litea",
+  "name": "eslint-config-litea",
   "version": "0.0.0",
   "description": "Unified set of ESLint rules used by Litea Solution s.r.o.",
   "main": "index.js",
