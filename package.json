@@ -12,5 +12,10 @@
     "typescript"
   ],
   "author": "Dan Charousek <Dan.Charousek@litea.cz>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint-plugin-vue": "7.x",
+    "@vue/eslint-config-airbnb": "5.x",
+    "@vue/eslint-config-typescript": "5.x"
+  }
 }
