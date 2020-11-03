@@ -1,8 +1,8 @@
 module.exports = {
     extends: [
-      require.resolve('eslint-plugin-vue/vue3-recommended'),
-      require.resolve('@vue/eslint-config-airbnb'),
-      require.resolve('@vue/eslint-config-typescript/recommended')
+      'plugin:vue/vue3-recommended',
+      '@vue/eslint-config-airbnb',
+      '@vue/eslint-config-typescript/recommended'
     ],
 
     rules: {
